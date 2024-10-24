@@ -1,16 +1,20 @@
-## Hi there 👋
+## Fala, pessoal! 👋
 
-<!--
-**jpcerqueira/jpcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o **João Pedro Cerqueira**, estudante de **Desenvolvimento de Sistemas**, e estou sempre em busca de aprimorar minhas habilidades em programação.
 
-Here are some ideas to get you started:
+### Tecnologias em que estou me desenvolvendo:
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img aling="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Um pouco sobre mim:
+💻 **Engenheiro Civil** com 10 anos de experiência, buscando transição para a área da programação. Busco aplicar minha expertise técnica e habilidades de gestão em um ambiente que valorize a excelência e promova o crescimento profissional.
+
+📚 Meu foco é continuar estudando e me aprimorando para me tornar um desenvolvedor preparado para enfrentar qualquer desafio!
+
+---
+
+### Entre em contato:
+• [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-cerqueira-22ab25171/)
