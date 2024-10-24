@@ -17,4 +17,4 @@ Sou o **João Pedro Cerqueira**, estudante de **Desenvolvimento de Sistemas**, e
 ---
 
 ### Entre em contato:
-• [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-cerqueira-22ab25171/)
+• [LinkedIn](https://www.linkedin.com/in/jpccerqueira)
